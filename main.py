@@ -10,8 +10,8 @@ from docx import Document
 from fpdf import FPDF
 
 # Airtable Configuration
-AIRTABLE_API_KEY = 'patvS8osFDngCE0iW.4728217ddb2f14ecb1a3267e685ea11382100608c5f39205d0249eae7b8356c3'  # Replace with your Airtable Personal Access Token (PAT)
-BASE_ID = 'appMoJrdRNUc086rC'  # Replace with your Airtable Base ID
+AIRTABLE_API_KEY = ''  # Replace with your Airtable Personal Access Token (PAT)
+BASE_ID = ''  # Replace with your Airtable Base ID
 TABLE_NAME = 'Bandi online '  # Ensure the table name is correct
 VIEW_NAME = 'Open'  # Ensure the view name is correct
 
